@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018049126968",
+    "firebase_url": "https://marty-1f41e-default-rtdb.firebaseio.com",
+    "project_id": "marty-1f41e",
+    "storage_bucket": "marty-1f41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018049126968:android:c6b39529c2a2631da9bccd",
+        "android_client_info": {
+          "package_name": "com.marty.ng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018049126968-63nesfummlhje5r3dc89mcd627ijk1sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marty.ng",
+            "certificate_hash": "0f187ed3d2489433d870e08ef6dfd57117a2c1cb"
+          }
+        },
+        {
+          "client_id": "1018049126968-b9n9pfue56j8b7alehob7q86uq2hk68j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOuIL387QXXpazsh792pLzNmx1EYHh-fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018049126968-b9n9pfue56j8b7alehob7q86uq2hk68j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018049126968-6j7il712ivf1nhnju609tu9e4f2t8sia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marty.ng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
